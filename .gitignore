@@ -1,0 +1,74 @@
+# Build directories
+build/
+bin/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.d
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+deps/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Core dumps
+core
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Doxygen output
+docs/html/
+docs/latex/
+
+# Miscelleneous
+*.asm
